@@ -1,5 +1,5 @@
-# Logi-Flow-Tableau-Dashboard
-# 🚚 Logi Flow — Logistics & Supply Chain Analytics### 📊 Dashboard
+# 🚚 Logi Flow — Logistics & Supply Chain Analytics
+### 📊 Dashboard
 ---
 ## 1. Shipment & Warehouse Overview
 <img width="1917" height="1078" alt="Screenshot 2026-09-09 201300" src="https://github.com/user-attachments/assets/849b541d-92ea-4980-aefd-db5ae1c0ce4b" />
@@ -18,6 +18,7 @@
 - Delay Rate Analysis
 - Carrier Performance
 - Product Category Analysis
+---
 ## 3. Logistics Strategy Dashboard
 <img width="1917" height="1078" alt="Screenshot 2026-09-09 201337" src="https://github.com/user-attachments/assets/18466026-61ab-4150-ac54-5054de61128f" />
 **Key Analysis**
